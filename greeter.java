@@ -4,6 +4,6 @@ class Greeter {
     this.name = name;
     }
     public String greet (){
-    return " Hello " + name + ", what a wonderful day.";
+    return " Hello " + name + ", what a bad day.";
     }
     }
